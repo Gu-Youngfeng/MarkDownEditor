@@ -24,7 +24,9 @@ We have 3 kinds of title styles, we only need add symbol **`#`**, **`##`**, **`#
 # this is an H1
 ## this is an H2
 ```
+
 EXAMPLE:
+
 # this is an H1
 ## this is an H2
 
@@ -36,7 +38,9 @@ We can easily implement the equation if we want to reference some words. Adding 
 > China is sending an envoy and delegation to North Korea - A big move, we'll see what happens!.
 > - Trump
 ```
+
 EXAMPLE:
+
 > China is sending an envoy and delegation to North Korea - A big move, we'll see what happens!.
 > - Trump
 
@@ -49,7 +53,9 @@ We use **`+`**, **`-`**, and **`\*`** to mark the listings, and all these 3 symb
 - VW has a $12B plan for electric cars in China.
 * Semens is cutting 6,900 jobs.
 ```
+
 EXAMPLE:
+
 + Goldman Sachs CEO says U.K. should vote again on Brexit.
 - VW has a $12B plan for electric cars in China.
 * Semens is cutting 6,900 jobs.
@@ -66,6 +72,7 @@ public static void main(String[] args){
 ```
 
 EXAMPLE:
+
 ```java
 public static void main(String[] args){
     System.out.println("Hello, MarkDown!");
@@ -80,6 +87,7 @@ If we want to refer to a website in our text, we'd better use `[:word](:http)` t
 ```markdown
 We can visit [Baidu](http:www.baidu.com), but we cannot visit [google](http://www.google.com/) in China.
 ```
+
 EXAMPLE:
 
 We can visit [Baidu](http:www.baidu.com) but we cannot visit [google](http://www.google.com/) in China.
@@ -94,6 +102,7 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 | Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | 39.00 |
 | Intro. to MarkDown | Mingming | Wuhan Uni. | 50.00 |
 ```
+
 EXAMPLE:
 
 | BOOK NAME | AUTHOR | PRESS | PRICE |
@@ -108,6 +117,9 @@ To rich the text we have writed or improve the word's readability, and the metho
 ```markdown
 ![picture](imgs/readme.jpg)
 ```
+
+EXAMPLE:
+
 ![picture](imgs/readme.jpg)
 
 
@@ -117,6 +129,7 @@ The syntax of MarkDown is the same with LaTeX, so all the symbols are list in th
 ```markdown
 $$\alpha^{2} = \beta^{2} + \gamma^{2}$$
 ```
+
 EXAMPLE:
 
 $$\alpha^{2} = \beta^{2} + \gamma^{2}$$
