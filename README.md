@@ -127,11 +127,27 @@ EXAMPLE:
 The syntax of MarkDown is the same with LaTeX, so all the symbols are list in the file [doc](doc/). Here is the simple example,
 
 ```markdown
-$$\alpha^{2} = \beta^{2} + \gamma^{2}$$
+```math
+\alpha^{2} + \beta^{2} = \gamma^{2}```
 ```
 
 EXAMPLE:
 
-$$\alpha^{2} = \beta^{2} + \gamma^{2}$$
+```math
+\alpha^{2} + \beta^{2} = \gamma^{2}
+```
+
+### **9. CheckBox**
+MarkDown can provide the function of checkbox when you want to emphase some points, using `- [ ]` or `- [x]`
+
+```markdown
+- [ ] buy a book.
+- [x] play a game.
+```
+
+EXAMPLE:
+
+- [ ] buy a book.
+- [x] play a game.
 
 - - -
