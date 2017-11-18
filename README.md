@@ -1,4 +1,4 @@
-﻿# MarkDown Editor
+# MarkDown Editor
 
 This Project provides the **MD**(`MarkDown`) language environment in GitHub. It saves my basic **MD** files online.
 
@@ -124,14 +124,28 @@ EXAMPLE:
 
 
 ### **8. Mathematical**
-The syntax of MarkDown is the same with LaTeX, so all the symbols are list in the file [doc](doc/). Here is the simple example,
+The syntax of MarkDown is the same with LaTeX(such as __youdao cloud__ and __cmd Markdown__), so all the symbols are list in the file [doc](doc/). But we must note that some MD compilers CANNOT get the right results using LaTeX directly(such as __GitHub__ and __StackOverflow__), so in that time we can only use HTML symbols to replace part of them.
 
 ```markdown
-$$\alpha^{2} = \beta^{2} + \gamma^{2}$$
+&alpha; + &beta; = &gamma;
 ```
 
 EXAMPLE:
 
-$$\alpha^{2} = \beta^{2} + \gamma^{2}$$
+&alpha; + &beta; = &gamma;
+
+
+### **9. CheckBox**
+MarkDown can provide the function of checkbox when you want to emphase some points, using `- [ ]` or `- [x]`
+
+```markdown
+- [ ] buy a book.
+- [x] play a game.
+```
+
+EXAMPLE:
+
+- [ ] buy a book.
+- [x] play a game.
 
 - - -
