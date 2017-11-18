@@ -1,10 +1,10 @@
-# MarkDown Editor
+﻿# MarkDown Editor
 
 This Project provides the **MD**(`MarkDown`) language environment in GitHub. It saves my basic **MD** files online.
 
 ## Introduction
 
-MarkDown is a very easy editing language, which appears in almost every large website, such as [GitHub](https://github.com/), and [StackOverflow](https://stackoverflow.com/). More and more people find it very easy and simple to write files using this language, because we can spend more time focusing the word itself rather than the format. Fortunately, we can totally master it by spending only 5 minutes. 
+MarkDown is a very easy editing language, which appears in almost every large website, such as [GitHub](https://github.com/), and [StackOverflow](https://stackoverflow.com/). More and more people find it very easy and simple to write files using this language, because we can spend more time focusing on the word itself rather than the complicated formats. Fortunately, we can totally master it by spending only 5 minutes. 
 
 ## Tutorials
 
@@ -18,7 +18,7 @@ We also provide some tutorials to the beginners, they are,
 Here are some syntax and notes you should pay attention to while writing this language.
 
 ### **1. Title**
-We have 3 kinds of title styles, we only need add symbol **`#`**, **`##`**, **`###`** in front of title context.
+We have three kinds of title styles, we only need add symbol **`#`**, **`##`**, **`###`** in front of title context.
 
 ```markdown
 # this is an H1
@@ -46,7 +46,7 @@ EXAMPLE:
 
 
 ### **3. Listings**
-We use **`+`**, **`-`**, and **`\*`** to mark the listings, and all these 3 symbol have the same result.
+We use **`+`**, **`-`**, and **`\*`** to mark the listings, and all these three symbol have the same result.
 
 ```markdown
 + Goldman Sachs CEO says U.K. should vote again on Brexit.
@@ -62,7 +62,7 @@ EXAMPLE:
 
 
 ### **4. Code**
-We have simple to way to demostrate the different code segments by inserting code into <code>\`\`\`{:code}\`\`\`</code>.
+We have simple to way to demostrate the different code segments by inserting code into <code>\`\`\`</code> {:code} <code>\`\`\`</code>.
 
 ```markdown
 ```java
@@ -82,7 +82,7 @@ public static void main(String[] args){
 
 ### **5. Link**
 
-If we want to refer to a website in our text, we'd better use `[:word](:http)` to show the website links. Click the hyper-links we can redirect to the website.
+If we want to refer to a website in our text, we'd better use `[:name](:links)` to show the website links. Click the hyper-links we can redirect to the website.
 
 ```markdown
 We can visit [Baidu](http:www.baidu.com), but we cannot visit [google](http://www.google.com/) in China.
@@ -99,16 +99,16 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 ```markdown
 | BOOK NAME | AUTHOR | PRESS | PRICE |
 | - | - | - | - |
-| Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | 39.00 |
-| Intro. to MarkDown | Mingming | Wuhan Uni. | 50.00 |
+| Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
+| Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 ```
 
 EXAMPLE:
 
 | BOOK NAME | AUTHOR | PRESS | PRICE |
 | - | - | - | - |
-| Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | 39.00 |
-| Intro. to MarkDown | Mingming | Wuhan Uni. | 50.00 |
+| Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
+| Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 
 
 ### **7. Image**
@@ -135,5 +135,3 @@ EXAMPLE:
 $$\alpha^{2} = \beta^{2} + \gamma^{2}$$
 
 - - -
-
-
