@@ -98,7 +98,7 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 
 ```markdown
 | BOOK NAME | AUTHOR | PRESS | PRICE |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
 | Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 ```
@@ -106,7 +106,7 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 EXAMPLE:
 
 | BOOK NAME | AUTHOR | PRESS | PRICE |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
 | Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 
