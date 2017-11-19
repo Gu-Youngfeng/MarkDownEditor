@@ -6,6 +6,8 @@ This Project provides the **MD**(`MarkDown`) language environment in GitHub. It 
 
 MarkDown is a very easy editing language, which appears in almost every large website, such as [GitHub](https://github.com/), and [StackOverflow](https://stackoverflow.com/). More and more people find it very easy and simple to write files using this language, because we can spend more time focusing on the word itself rather than the complicated formats. Fortunately, we can totally master it by spending only 5 minutes. 
 
+To better utilze this wonderful language, I strongly recommand a free MD editor [LiteIDE](http://liteide.org/cn/), which supports the convertion from **MD** file to **PDF** file. What's more, I also overwrite a css file [xp.css](docs/xp.css) in the project (you can also overwrite this css file on your computer).
+
 ## Tutorials
 
 We also provide some tutorials to the beginners, they are,
@@ -124,7 +126,7 @@ EXAMPLE:
 
 
 ### **8. Mathematical**
-The syntax of MarkDown is the same with LaTeX(such as __youdao cloud__ and __cmd Markdown__), so all the symbols are list in the file [doc](doc/). But we must note that some MD compilers CANNOT get the right results using LaTeX directly(such as __GitHub__ and __StackOverflow__), so in that time we can only use HTML symbols to replace part of them.
+The syntax of MarkDown is the same with LaTeX(such as __youdao cloud__ and __cmd Markdown__), so all the symbols are list in the file [docs](docs/HTML_symbols.pdf). But we must note that some MD compilers CANNOT get the right results using LaTeX directly(such as __GitHub__ and __StackOverflow__), so in that time we can only use HTML symbols to replace part of them.
 
 ```markdown
 &alpha; + &beta; = &gamma;
