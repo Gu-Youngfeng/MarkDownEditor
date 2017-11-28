@@ -150,4 +150,17 @@ EXAMPLE:
 - [ ] buy a book.
 - [x] play a game.
 
+
+### **10. Footnote**
+When we want to explain some terms or events, we can use foornote which recored in the bottom of the pages. using `[^ ]` to keep note.
+
+```markdown
+We want to reference a paper [^1] here.
+[^1]: Gu, Yongfeng, J. Xuan, and T. Qian. "Automatic Reproducible Crash Detection." SATE 2016, 2016:48-53. 
+```
+
+EXAMPLE:
+
+We want to reference a paper [^1] here.
+[^1]: Gu, Yongfeng, J. Xuan, and T. Qian. "Automatic Reproducible Crash Detection." SATE 2016, 2016:48-53. 
 - - -
