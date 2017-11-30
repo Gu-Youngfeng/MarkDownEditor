@@ -152,7 +152,7 @@ EXAMPLE:
 
 
 ### **10. Footnote**
-When we want to explain some terms or events, we can use foornote which recored in the bottom of the pages. using `[^ ]` to keep note.
+When we want to explain some terms or events, we can use footnote which record in the bottom of the pages. using `[^ ]` to keep note.
 
 ```markdown
 We want to reference a paper [^1] here.
