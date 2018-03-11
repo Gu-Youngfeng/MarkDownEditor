@@ -4,7 +4,7 @@ This Project provides the **MD**(`MarkDown`) language environment in GitHub. It 
 
 ## Introduction
 
-MarkDown is a very easy editing language, which appears in almost every large website, such as [GitHub](https://github.com/), and [StackOverflow](https://stackoverflow.com/). More and more people find it very easy and simple to write files using this language, because we can spend more time focusing on the word itself rather than the complicated formats. Fortunately, we can totally master it by spending only 5 minutes. 
+MarkDown is a very easy editing language, which appears in almost every large website, such as [GitHub](https://github.com/), and [StackOverflow](https://stackoverflow.com/). Nowadays, more and more people find it very easy and simple to write files using this language, since we can spend more time focusing our attention on the content itself rather than wasting on the complicated formats. Fortunately, we can totally master it by spending only 5 minutes. 
 
 To better utilze this wonderful language, I strongly recommand a free MD editor [LiteIDE](http://liteide.org/cn/), which supports the convertion from **MD** file to **PDF** file. What's more, I also overwrite a css file [xp.css](docs/xp.css) in the project (you can also overwrite this css file on your computer).
 
@@ -64,7 +64,7 @@ EXAMPLE:
 
 
 ### **4. Code**
-We have simple to way to demostrate the different code segments by inserting code into <code>\`\`\`</code> {:code} <code>\`\`\`</code>.
+We have a simple way to demostrate the different code segments by inserting code into <code>\`\`\`</code> {:code} <code>\`\`\`</code>.
 
 ```markdown
 ```java
@@ -100,7 +100,7 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 
 ```markdown
 | BOOK NAME | AUTHOR | PRESS | PRICE |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
 | Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 ```
@@ -108,7 +108,7 @@ Table is a common elements in our daily word file. In MarkDown, we can implement
 EXAMPLE:
 
 | BOOK NAME | AUTHOR | PRESS | PRICE |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Intro. to GITHUB | Hongji Dazhong | Posts&Telecom | ￥39.00 |
 | Intro. to MarkDown | Mingming | Wuhan Uni. | ￥50.00 |
 
@@ -162,5 +162,6 @@ We want to reference a paper [^1] here.
 EXAMPLE:
 
 We want to reference a paper [^1] here.
+
 [^1]: Gu, Yongfeng, J. Xuan, and T. Qian. "Automatic Reproducible Crash Detection." SATE 2016, 2016:48-53. 
 - - -
