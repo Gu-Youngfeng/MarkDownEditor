@@ -33,3 +33,9 @@ Here I simply list some of good expressions or sentences in top-level English pa
 - We search for a best-fit function that can **extrapolate** the remaining learning curve.
 
 - The use of random sampling in those works **was motivated by the idea that** in practice, available measured configurations of a system might not follow any particular feature-coverage criteria and would be **essentially** random.
+
+### 2018/04/04
+
+- Three candidate configuration options, a, b, and c, **constitute** a search space of eight combinations.
+
+- An **off-the-shelf** tool of pairwise follows the predefined rule and cannot cover all possible configurations.
