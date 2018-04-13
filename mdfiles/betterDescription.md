@@ -39,3 +39,25 @@ Here I simply list some of good expressions or sentences in top-level English pa
 - Three candidate configuration options, a, b, and c, **constitute** a search space of eight combinations.
 
 - An **off-the-shelf** tool of pairwise follows the predefined rule and cannot cover all possible configurations.
+
+### 2018/04/05
+
+- Our results show that building performance-influence model is (a) **computationally tractable**, (b) our approach finds actual influences and represents them directly, and (c) we **attain** a reasonable prediction accuracy.
+
+### 2018/04/06
+
+- Since it is infeasible to run all **(2^n)** configurations for a system with **n** features, the key challenge is to accurately predict the performance of the system on all configurations by measuring only a small number of sample configurations, as is **being actively studied** in many recent works [1,2,3,4,5,6].
+
+### 2018/04/07
+
+- Process Automation **per se** is an old idea, going back to the pioneering work of Osterweil [1].
+
+### 2018/04/12
+
+- Even such a simple case with only 16 features **gives rise to** 1,152 configurations.
+
+- Software engineers often **make poor choices** about configuration or, **even worse**, they usually use a sub-optimal configuration production.
+
+- Modern software systems come with **a daunting number of** configuration options.
+
+- The configurations **are also referred to as** independent variables. The performance measure **is also reffered to as** dependent variable.
