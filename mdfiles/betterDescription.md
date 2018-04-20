@@ -60,4 +60,26 @@ Here I simply list some of good expressions or sentences in top-level English pa
 
 - Modern software systems come with **a daunting number of** configuration options.
 
-- The configurations **are also referred to as** independent variables. The performance measure **is also reffered to as** dependent variable.
+- The configurations **are also referred to as** independent variables. The performance measure **is also referred to as** dependent variable.
+
+### 2018/04/16
+
+- **In the face of** hundreds of configuration options, it is difficult to keep track of the effects of individual configuration options and their mutual interactions. (in the face of = when we face)
+
+- The figure shows that having a good configuration reduces the response time **by a factor of 40** when compared to the worst possible configuration. (by a factor of 40 = 40 times)
+
+- Each element of a configuration represents a feature, which can either be True or False, based on whether the feature is selected or not.
+
+### 2018/04/17
+
+- The choice of the optimizer does not **critically effect** this conclusion.
+
+### 2018/04/19
+
+- Transfer leaning can only be useful **in cases where** the source environments is similar to the target environment.
+
+- It must be noted that transfer learning methods **place an implicit faith** in the nature of the source.
+
+- An incorrect choice of source may result in the all too common **negative transfer phenomenon**.
+
+- A small difference in performance measure can lead to a large rank difference and **vice-versa**.
