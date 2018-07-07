@@ -83,3 +83,8 @@ Here I simply list some of good expressions or sentences in top-level English pa
 - An incorrect choice of source may result in the all too common **negative transfer phenomenon**.
 
 - A small difference in performance measure can lead to a large rank difference and **vice-versa**.
+
+### 2018/07/07
+
+- **In a nutshell**, the intuition behind such functions is that it is not necessary to try all configuration options.
+
